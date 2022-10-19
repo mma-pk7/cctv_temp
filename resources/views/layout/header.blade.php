@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=no, user-scalable=no">
-    <title> CCTv Website</title>
+    <title> JP Solutions & Networks</title>
 
     <link rel="shortcut icon" href="assets/images/fav.jpg">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -24,8 +24,8 @@
                 <div class="row">
                     <div class="col-lg-7 col-md-12 left-item">
                         <ul>
-                            <li><i class="fas fa-envelope-square"></i> sales@smarteyeapps.dcom</li>
-                            <li class="d-none d-sm-block"><i class="fas fa-phone-square"></i> +123 987 887 765</li>
+                            <li><i class="fas fa-envelope-square"></i> info@JPSolutions&Network.net</li>
+                            <li class="d-none d-sm-block"><i class="fas fa-phone-square"></i> +92-22-211203</li>
                         </ul>
                     </div>
                     <div class="col-lg-5 d-none d-lg-block right-item">

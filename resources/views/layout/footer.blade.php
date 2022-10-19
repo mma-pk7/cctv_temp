@@ -9,8 +9,11 @@
          <div class="row">
              <div class="col-md-4">
                  <div class="foot-about">
-                     <h4>Smarteye</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla vel nisl a dictum. Donec ut est arcu.</p>
+                     <h4>JP Solution & Network</h4>
+                     <p>JP Solutions & Network is one of the leading suppliers, installers and system
+                        integrators of CCTV solutions, Access Control , Intercom/Video Door Phone, PABX
+                        Solutions, Time Attendance, Networking, Anti-Theft and RF ID Solutions, &, IT &
+                        Telecommunications.</p>
                      <ul>
                              <li><a><i class="fab fa-github"></i></a></li>
                              <li><a><i class="fab fa-linkedin-in"></i></a></li>
@@ -32,9 +35,11 @@
              </div>
              <div class="col-md-4 cont-foot">
                  <h4>Contacts</h4>
-                 <h5>+876 876 654</h5>
-                 <p>454 New Seard St.Antony, Toranto</p>
-                 <a href="">sales@smarteyeapps.com</a>
+                 <h5>+92-345-2618551</h5>
+                 <h5>+92-333-4746011</h5>
+                 <h5>+ 92-22-211203</h5>
+                 <p>Suit No. 739/1- G-5, Gul Shah Road, Near Cloth Market, Hyderabad</p>
+                 <a href="">info@JPSolutions&Network.net</a>
              </div>
          </div>
      </div>

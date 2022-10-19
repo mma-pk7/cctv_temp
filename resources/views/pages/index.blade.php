@@ -18,19 +18,29 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <span>Quality Data Entry Website Template</span>
-                            <h2>WE DO ALL! YOU JUST BUY AND ENJOY</h2>
-                            <p>Enjoy the wonderful feeling with our design</p>
+                            <span>Vision</span>
+                            <h2>
+                                To become international Networked Enterprise in Electronic
+                                Security & Surveillance System with all Innovative Solution under
+                                One Roof.</h2>
+                            <p>...</p>
                         </div>
                         <div class="carousel-item">
-                            <span>Quality Data Entry Website Template</span>
-                            <h2>NEW HIGH QUALITY TEMPLATE BUY AND ENJOY</h2>
-                            <p>Enjoy the wonderful feeling with our design</p>
+                            <span>
+                                Mission:</span>
+                            <h2>To provide the best solution & services for the CCTV and
+                                associated Electronic Security & Surveillance systems with
+                                Competitive prices & Quality</h2>
+                            <p>To enable our customers to achieve a sustainable, high value,
+                                competitive advantage through the effective use of advanced
+                                information technology,</p>
                         </div>
                         <div class="carousel-item">
-                            <span>Quality Data Entry Website Template</span>
-                            <h2>WE DO ALL! YOU JUST BUY AND ENJOY</h2>
-                            <p>Enjoy the wonderful feeling with our design</p>
+                            <span>JP Solutions
+                                &
+                                Networks</span>
+                            <h2>Solution of every How</h2>
+                            <p>COMPANY PROFILE-2022</p>
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -55,7 +65,11 @@
         <div class="container sess-in-cont">
             <div class="session-title row">
                 <h2>Our Services</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis magna odio, eu vehicula augue suscipit ac. Pellentesque quis dui lorem. </p>
+                <p>Our Security Smart Building Technology Division offers the
+                    highest quality products coupled with the latest technology to
+                    ensure the business continuity of our clients in the most efficient
+                    and full-proof way possible. Our wide arena of products and
+                    systems includes. </p>
             </div>
             <div class="sess-row row">
                 <div class="col-md-4">
@@ -63,10 +77,14 @@
                         <figure class="imghvr-fade">
                             <img src="assets/images/services/s1.jpg" alt="">
                             <figcaption>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis magna odio, eu vehicula augue suscipit ac. Pellentesque quis dui lorem. Vestibulum sed blandit diam,
+                                Our Security Smart Building Technology Division offers the
+                                highest quality products coupled with the latest technology to
+                                ensure the business continuity of our clients in the most efficient
+                                and full-proof way possible. Our wide arena of products and
+                                systems includes
                             </figcaption>
                         </figure>
-                        <h6>CCTV Installation</h6>
+                        <h6>CCTV Security Systems</h6>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -74,10 +92,15 @@
                         <figure class="imghvr-fade">
                             <img src="assets/images/services/s2.jpg" alt="">
                             <figcaption>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis magna odio, eu vehicula augue suscipit ac. Pellentesque quis dui lorem. Vestibulum sed blandit diam,
+                                JP Solutions & Network provides Access Control Systems, which
+                                constitute an integral part of electronic security systems, with a wide
+                                range of products according to the operating scenarios provided by the
+                                customer and the risk analysis carried out by our engineers for the
+                                fulfillment of multiple purposes. These are put into operation and
+                                delivered as a turnkey optimum equipment configuration
                             </figcaption>
                         </figure>
-                        <h6>Home Automation</h6>
+                        <h6>ACCESS CONTROL SYSTEM</h6>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -85,10 +108,16 @@
                         <figure class="imghvr-fade">
                             <img src="assets/images/services/s3.jpg" alt="">
                             <figcaption>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis magna odio, eu vehicula augue suscipit ac. Pellentesque quis dui lorem. Vestibulum sed blandit diam,
+                                JP Solutions & Network designs intercom systems with/without
+                                video for the entrance security of homes and offices and offers a
+                                wide range of products in this field from small home systems to
+                                large systems for residential estates such as condominiums
+                                according to the operating scenario provided by the customer and
+                                the risk analysis carried out by our engineers with an optimum
+                                equipment configuration
                             </figcaption>
                         </figure>
-                        <h6>Home & Office Security</h6>
+                        <h6>INTERCOM & VIDEO INTERCOM SYSTEMS</h6>
                     </div>
                 </div>
             </div>
@@ -103,11 +132,12 @@
                     <img src="assets/images/about.jpg" alt="">
                 </div>
                 <div class="col-lg-6 col-md-12 txtr">
-                    <h4>Why choos Health Care with <br>
-                        <span>Medical Hospital</span>
+                    <h4>State-Of-The-Art Security  <br>
+                        <span>Camera Installation</span>
                     </h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer neque libero, pulvinar et elementum quis, facilisis eu ante. Mauris non placerat sapien. Pellentesque tempor arcu non odio scelerisque ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam varius eros consequat auctor gravida. Fusce tristique lacus at urna sollicitudin pulvinar. Suspendisse hendrerit ultrices mauris.</p>
-                    <p>Ut ultricies lacus a rutrum mollis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed porta dolor quis felis pulvinar dignissim. Etiam nisl ligula, ullamcorper non metus vitae, maximus efficitur mi. Vivamus ut ex ullamcorper, scelerisque lacus nec, commodo dui. Proin massa urna, volutpat vel augue eget, iaculis tristique dui. </p>
+                    <p>AZ CCTV carries only the best. Our choice of security camera and technology partners are selected with usability,
+                        features, warranty, and affordability in mind. We believe everyone budget should have the right to protect their
+                        home and keep an eye on their most valuable possessions while on location or away. </p>
                 </div>
 
             </div>
@@ -118,22 +148,23 @@
     <div class="key-features container-fluid">
         <div class="container">
             <div class="session-title row">
-                <h2>Key Features</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis magna odio, eu vehicula augue suscipit ac. Pellentesque quis dui lorem. </p>
+                <h2>Trusted Brands</h2>
+                <p>We only carry the most trusted brands at the highest quality. Our experience and expertise allows us to decide what we should offer.. </p>
             </div>
             <div class="key-row row">
                 <div class="col-md-3">
                     <div class="key-single">
                         <i class="fas fa-fingerprint"></i>
                         <h6>High Security</h6>
-                        <p>Sed ligula eros, convallis sit amet ullamcorper sit amet, consequat vel nulla. Maecenas quis convallis dolor. Ut enim lacus, aliquet at neque et,</p>
+                        <p>Protecting your home or business should not be a complicated task and that’s why we are here. Make a quick call to set up a free security consultation today.</p>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="key-single">
                         <i class="fas fa-user-lock"></i>
                         <h6>Full Device Protection</h6>
-                        <p>Sed ligula eros, convallis sit amet ullamcorper sit amet, consequat vel nulla. Maecenas quis convallis dolor. Ut enim lacus, aliquet at neque et,</p>
+                        <p>Schedule an appointment with us for your home security needs.
+                        </p>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -147,7 +178,7 @@
                     <div class="key-single">
                         <i class="far fa-folder-open"></i>
                         <h6>Full Backup of Information</h6>
-                        <p>Sed ligula eros, convallis sit amet ullamcorper sit amet, consequat vel nulla. Maecenas quis convallis dolor. Ut enim lacus, aliquet at neque et,</p>
+                        <p>Have one of our security experts put together a FREE quote for over the phone or on-site at your home!</p>
                     </div>
                 </div>
             </div>

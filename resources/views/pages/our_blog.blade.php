@@ -22,112 +22,45 @@
     
 
     <!--################### Our Blog Starts Here #######################--->
-        <div class="blog-container contaienr-fluid">
-            <div class="container">
-                <div class="session-title row">
-                  <h2>Latest Blog</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla vel nisl a dictum. Donec ut est arcu. Donec hendrerit velit consectetur adipiscing elit.</p>
+    <div class="key-features container-fluid">
+        <div class="container">
+            <div class="session-title row">
+                <h2>Trusted Brands</h2>
+                <p>We only carry the most trusted brands at the highest quality. Our experience and expertise allows us to decide what we should offer.. </p>
+            </div>
+            <div class="key-row row">
+                <div class="col-md-3">
+                    <div class="key-single">
+                        <i class="fas fa-fingerprint"></i>
+                        <h6>High Security</h6>
+                        <p>Protecting your home or business should not be a complicated task and that’s why we are here. Make a quick call to set up a free security consultation today.</p>
+                    </div>
                 </div>
-                <div class="row news-row">
-                    <div class="col-md-6">
-                        <div class="news-card">
-                            <div class="image">
-                                <img src="assets/images/blog/blog_01.jpg" alt="">
-                            </div>
-                            <div class="detail">
-                                <h3>Latest News about Smarteye</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla vel nisl a dictum. Donec ut est arcu. Donec hendrerit consectetur adipiscing elit. </p>
-                                <p class="footp">
-                                    27 Comments <span>/</span>
-                                    Blog Design <span>/</span>
-                                    Read More
-                                </p>
-                            </div>
-                        </div>
+                <div class="col-md-3">
+                    <div class="key-single">
+                        <i class="fas fa-user-lock"></i>
+                        <h6>Full Device Protection</h6>
+                        <p>Schedule an appointment with us for your home security needs.
+                        </p>
                     </div>
-                    <div class="col-md-6">
-                        <div class="news-card">
-                            <div class="image">
-                                <img src="assets/images/blog/blog_02.jpg" alt="">
-                            </div>
-                            <div class="detail">
-                                <h3>Apple Launch its New Phone</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla vel nisl a dictum. Donec ut est arcu. Donec hendrerit consectetur adipiscing elit. </p>
-                                <p class="footp">
-                                    27 Comments <span>/</span>
-                                    Blog Design <span>/</span>
-                                    Read More
-                                </p>
-                            </div>
-                        </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="key-single">
+                        <i class="fas fa-video"></i>
+                        <h6>Remote Monitoring</h6>
+                        <p>Sed ligula eros, convallis sit amet ullamcorper sit amet, consequat vel nulla. Maecenas quis convallis dolor. Ut enim lacus, aliquet at neque et,</p>
                     </div>
-                    <div class="col-md-6">
-                        <div class="news-card">
-                            <div class="image">
-                                <img src="assets/images/blog/blog_03.jpg" alt="">
-                            </div>
-                            <div class="detail">
-                                <h3>About Windows 10 Update</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla vel nisl a dictum. Donec ut est arcu. Donec hendrerit consectetur adipiscing elit. </p>
-                                <p class="footp">
-                                    27 Comments <span>/</span>
-                                    Blog Design <span>/</span>
-                                    Read More
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="news-card">
-                            <div class="image">
-                                <img src="assets/images/blog/blog_04.jpg" alt="">
-                            </div>
-                            <div class="detail">
-                                <h3>Latest News about Smarteye</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla vel nisl a dictum. Donec ut est arcu. Donec hendrerit consectetur adipiscing elit. </p>
-                                <p class="footp">
-                                    27 Comments <span>/</span>
-                                    Blog Design <span>/</span>
-                                    Read More
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="news-card">
-                            <div class="image">
-                                <img src="assets/images/blog/blog_01.jpg" alt="">
-                            </div>
-                            <div class="detail">
-                                <h3>Latest News about Smarteye</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla vel nisl a dictum. Donec ut est arcu. Donec hendrerit consectetur adipiscing elit. </p>
-                                <p class="footp">
-                                    27 Comments <span>/</span>
-                                    Blog Design <span>/</span>
-                                    Read More
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="news-card">
-                            <div class="image">
-                                <img src="assets/images/blog/blog_02.jpg" alt="">
-                            </div>
-                            <div class="detail">
-                                <h3>Apple Launch its New Phone</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla vel nisl a dictum. Donec ut est arcu. Donec hendrerit consectetur adipiscing elit. </p>
-                                <p class="footp">
-                                    27 Comments <span>/</span>
-                                    Blog Design <span>/</span>
-                                    Read More
-                                </p>
-                            </div>
-                        </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="key-single">
+                        <i class="far fa-folder-open"></i>
+                        <h6>Full Backup of Information</h6>
+                        <p>Have one of our security experts put together a FREE quote for over the phone or on-site at your home!</p>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
 
 
